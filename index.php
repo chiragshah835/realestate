@@ -48,7 +48,9 @@
             <h1 class="text-5xl md:text-7xl text-white mb-6">Find Your Sanctuary.</h1>
             <p class="text-xl text-gray-200 mb-8 max-w-2xl mx-auto">Curated luxury properties in the world's most desirable neighborhoods.</p>
             <div class="flex flex-col md:flex-row justify-center gap-4">
-                <a href="#listings" class="bg-white text-blue-900 px-8 py-4 rounded-md font-semibold hover:bg-gray-100 transition">Browse Properties</a>
+                <a href="#listings" class="bg-white text-blue-900 px-8 py-4 rounded-md font-semibold hover:bg-gray-100 transition">Browse .git add index.php
+git commit -m "Add dot"
+ Properties</a>
                 <a href="#contact" class="border-2 border-white text-white px-8 py-4 rounded-md font-semibold hover:bg-white hover:text-blue-900 transition">Contact Agent</a>
             </div>
         </div>
